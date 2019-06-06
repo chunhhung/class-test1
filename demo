@@ -1,0 +1,219 @@
+<html>
+
+<head>
+	<!-- 讓 mobile/tablet 等比例呈現網頁資訊-->
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- 載入 CSS 檔案 -->
+	<link href="./css/style.css" type="text/css" rel="stylesheet" />
+
+	<!-- 載入 Material Icons -->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+
+<!-- Parallax CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+</head>
+
+<body>
+	<!-- navigation bar -->
+	<nav>
+		<img class="logo" src="../assets/twreporter-logo.svg"></img>
+		<ul>
+			<a href="https://www.twreporter.org/topics">
+				<li>
+					專題
+				</li>
+			</a>
+			<a href="https://www.twreporter.org/categories/culture_and_art">
+				<li>
+					文化
+				</li>
+			</a>
+			<a href="https://www.twreporter.org/categories/international">
+				<li>
+					國際
+				</li>
+			</a>
+			<a href="https://www.twreporter.org/categories/human_rights_and_society">
+				<li>
+					社會
+				</li>
+			</a>
+			<i class="material-icons md-dark">face</i>
+		</ul>
+	</nav>
+	<article style="padding-top:60px;">
+		<header>
+			<!-- 副標 -->
+			<h2 class="subtitle text-block">毒癮者的腦內戰爭與復歸之路</h2>
+			<!-- 大標 -->
+			<h1 class="title text-block">「黑洞」歷史性曝光，台灣與34組科學團隊協力達陣</h1>
+		</header>
+
+		<!-- Parallax首圖 -->
+		<div class="parallax-container">
+				<div class="parallax"><img src="../assets/hero-image.jpg"></div>
+			</div>
+		<!-- 前言 -->
+		<p class="intro text-block">黑洞的真實樣貌，一直以來都是一個謎，也是天文學家目前亟欲探求的真相。透過34個科學家團隊組成、與地球直徑一樣長的陣列「事件視界望遠鏡（Event Horizon Telescope, EHT）」、長達7年的努力，就在台北時間2019年4月10日晚上21點，人類首次捕捉黑洞樣貌的影像將呈現在世界眼前，而台灣在這項跨時代的歷史任務中，貢獻了關鍵技術。</p>
+		<div class="intro-line"></div>
+		<p class="paragraph text-block">
+			由橫跨世界12國、共34組科學家的研究團隊，成立「事件視界望遠鏡」，即瞄準宇宙黑洞。這項龐大的計畫，透過設立在美國、智利、格陵蘭、墨西哥、西班牙和南極等地的陣列天線組成，其中最主要的望遠鏡分別為夏威夷的次毫米波陣列望遠鏡（Sub-Millimeter
+			Array, SMA）、智利的阿塔卡瑪大型毫米及次毫米波陣列（Atacama Large Millimeter/submillimeter Array, ALMA）與台灣和哈佛大學團隊於2017年共同架設的格陵蘭望遠鏡。
+		</p>
+		<p class="paragraph text-block">
+			參與格陵蘭望遠鏡建置的中山科學研究院顧問荊溪暠指出，格陵蘭望遠鏡是「事件視界望遠鏡」計畫重要一環，而其中關鍵的電子機械技術就是來自台灣。 「事件視界望遠鏡」主要觀測標的為位於銀河系中央，距離地球約26,000光年的超大質量黑洞人馬座A*以及M87星系中央的超大質量黑洞。致力於超大質量黑洞觀測，並以取得「超大質量黑洞」的資訊做為計畫目標。
+		</p>
+
+		<!-- 圖 -->
+		<figure>
+			<img src="../assets/image-0.jpg" width="100%"></img>
+			<figcaption>2019年4月9日，事件視界望遠鏡計畫（EHT）發布人類歷史上首次得到的超大質量黑洞成像。（Photo credit／EHT Collaboration）</figcaption>
+		</figure>
+
+		<p class="paragraph text-block">
+			今天晚上21點，台灣中研院與美國華盛頓、智利聖地牙哥、比利時布魯塞爾、日本東京與中國上海6國研究機構，同步舉行記者會，呈現事件視界望遠鏡的觀測成果。由於各國都簽定保密條款，事先都不能先把這張歷史照片曝光。
+		</p>
+		<p class="paragraph text-block">
+			荊溪暠認為，會選在上述6個國家舉行記者會，除了這6國是事件視界望遠鏡的成員國外，在這次的觀測中都做出了重要的貢獻，不論是在技術或是資訊分析，「台灣的天文觀測實力是國際知名的！」
+		</p>
+		<p class="paragraph text-block">
+			荊溪暠指出，進行天文觀測時一般就是觀測「星體的光波」、「電磁波變化」與「粒子」，而這次「事件視界望遠鏡」的成果，就是觀測黑洞的電磁波變化，進而獲得相關數據。
+		</p>
+		<p class="paragraph text-block">
+			中央大學天文研究所教授陳文屏受訪時解釋，黑洞會吞噬周圍越過 「事件地平線」（event horizon） 的物體，因此過去無法對於黑洞進行觀測，充其量只能觀測即將被黑洞吸入的物質，藉此推測黑洞的構造與樣貌，這類的觀測方式在天文學中被定位為「間接觀測」。如今，事件視界望遠鏡將可能把這類研究成果再往前推進。
+		</p>
+
+		<!-- 影片 -->
+		<div class="video-block">
+			<video controls muted loop autoplay>
+			<source type="video/mp4" src="../assets/video.mp4"></source>
+		</video>
+		</div>
+
+		<!-- 小標 -->
+		<h3 class="text-block">
+            歷史成就2：陣列天線補強觀測解析度
+        </h3>
+
+		<p class="paragraph text-block">
+			不過只增加訊號還不足夠，天文學家推估，若要順利觀測到離地球最近的超大質量黑洞，望遠鏡的直徑必須等同於地球直徑。因此在2年前，由台灣與哈佛的團隊，在格陵蘭建設與智利ALMA同樣規格的陣列天線。
+		</p>
+
+		<!-- 聲音 -->
+		<div class="text-block">
+			<audio controls>
+			<source src="../assets/audio.ogv"></source>
+		</audio>
+		</div>
+
+		<p class="paragraph text-block">
+			回憶在格陵蘭建設望遠鏡的過程，荊溪暠指出，最困難的就是設備禦寒與鋪設線路，「格陵蘭望遠鏡的雛型並不是為了酷寒環境設計，因此設備必須全部更換成耐寒的裝置，才能適應格陵蘭嚴酷的天氣，甚至有些元件必須完全在固定的環境條件之下才不會損毀。此外，格陵蘭的運補並不方便，基礎設施有限，因此整個望遠鏡的線路都必需重新鋪設。」
+		</p>
+
+
+		<!-- 小圖置右 -->
+		<div class="multimedia-block">
+			<figure class="align-right">
+				<img src="../assets/image-3.png" width="100%"></img>
+			</figure>
+			<p class="paragraph text-block">
+				荊溪暠說明，這次觀測的超大質量黑洞距離地球很遠，而且體積非常小，因此如果只用過去的觀測方式，解析度差、無法辨別訊號，非常容易誤判。「事件視界望遠鏡克服這件事情的方法，是將天線設計成陣列，相互補強以增加解析度。例如智利的ALMA就由66組陣列天線組成、夏威夷的SMA則有8組。」
+			</p>
+		</div>
+		<p class="paragraph text-block">
+			不過只增加訊號還不足夠，天文學家推估，若要順利觀測到離地球最近的超大質量黑洞，望遠鏡的直徑必須等同於地球直徑。因此在2年前，由台灣與
+		</p>
+		<p class="paragraph text-block">
+			哈佛的團隊，在格陵蘭建設與智利ALMA同樣規格的陣列天線。 回憶在格陵蘭建設望遠鏡的過程，荊溪暠指出，最困難的就是設備禦寒與鋪設線路，「格陵蘭望遠鏡的雛型並不是為了酷寒環境設計，因此設備必須全部更換成耐寒的裝置，才能適應格陵蘭嚴酷的天氣，甚至有些元件必須完全在固定的環境條件之下才不會損毀。此外，格陵蘭的運補並不方便，基礎設施有限，因此整個望遠鏡的線路都必需重新鋪設。」
+		</p>
+
+		<!-- Bootstrap Carousel -->
+		<div style="max-width: 70%; margin: 0 auto;">
+			<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+				<ol class="carousel-indicators">
+					<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+					<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+				</ol>
+				<div class="carousel-inner">
+					<div class="carousel-item active">
+						<img src="../assets/image-1.jpeg" class="d-block w-100">
+					</div>
+					<div class="carousel-item">
+						<img src="../assets/image-2.jpg" class="d-block w-100">
+					</div>
+				</div>
+				<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+			  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			  <span class="sr-only">Previous</span>
+			</a>
+				<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+			  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+			  <span class="sr-only">Next</span>
+			</a>
+			</div>
+		</div>
+	</article>
+
+	<!-- 相關文章 -->
+	<div class="related-block ">
+		<div class="related-text ">相關文章</div>
+		<div class="card-flex-box ">
+			<!-- flex item -->
+			<div class="card ">
+				<figure class="card-img ">
+					<img src="../assets/image-0.jpg " width="100% "></img>
+				</figure>
+				<h2 class="card-title ">山，在這裡——紙上攻頂14座8千公尺高山</h2>
+				<p class="card-desc "></p>想爬8千公尺高山，需要做什麼行前準備？身處8千公尺是什麼感覺？為什麼有人會想挑戰「無氧」攀登？我們或許無法和登山者一樣，親自攀上世界高峰，但跟著他們留下的紀錄，我們也能一同體會那份樂趣。
+			</div>
+			<!-- flex item -->
+			<div class="card ">
+				<figure class="card-img ">
+					<img src="../assets/image-0.jpg " width="100% "></img>
+				</figure>
+				<h2 class="card-title ">山，在這裡——紙上攻頂14座8千公尺高山</h2>
+				<p class="card-desc "></p>想爬8千公尺高山，需要做什麼行前準備？身處8千公尺是什麼感覺？為什麼有人會想挑戰「無氧」攀登？我們或許無法和登山者一樣，親自攀上世界高峰，但跟著他們留下的紀錄，我們也能一同體會那份樂趣。
+			</div>
+			<!-- flex item -->
+			<div class="card ">
+				<figure class="card-img ">
+					<img src="../assets/image-0.jpg " width="100% "></img>
+				</figure>
+				<h2 class="card-title ">山，在這裡——紙上攻頂14座8千公尺高山</h2>
+				<p class="card-desc "></p>想爬8千公尺高山，需要做什麼行前準備？身處8千公尺是什麼感覺？為什麼有人會想挑戰「無氧」攀登？我們或許無法和登山者一樣，親自攀上世界高峰，但跟著他們留下的紀錄，我們也能一同體會那份樂趣。
+			</div>
+			<!-- flex item -->
+			<div class="card ">
+				<figure class="card-img ">
+					<img src="../assets/image-0.jpg " width="100% "></img>
+				</figure>
+				<h2 class="card-title ">山，在這裡——紙上攻頂14座8千公尺高山</h2>
+				<p class="card-desc "></p>想爬8千公尺高山，需要做什麼行前準備？身處8千公尺是什麼感覺？為什麼有人會想挑戰「無氧」攀登？我們或許無法和登山者一樣，親自攀上世界高峰，但跟著他們留下的紀錄，我們也能一同體會那份樂趣。
+			</div>
+			<!-- flex item -->
+			<div class="card ">
+				<figure class="card-img ">
+					<img src="../assets/image-0.jpg " width="100% "></img>
+				</figure>
+				<h2 class="card-title ">山，在這裡——紙上攻頂14座8千公尺高山</h2>
+				<p class="card-desc "></p>想爬8千公尺高山，需要做什麼行前準備？身處8千公尺是什麼感覺？為什麼有人會想挑戰「無氧」攀登？我們或許無法和登山者一樣，親自攀上世界高峰，但跟著他們留下的紀錄，我們也能一同體會那份樂趣。
+			</div>
+		</div>
+	</div>
+
+	<!-- Optional JavaScript -->
+	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+			crossorigin="anonymous"></script>
+	<!-- Parallax script-->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script>
+		$(document).ready(function(){
+    $('.parallax').parallax();
+  });
+		</script>    
+</body>
+
+</html>
